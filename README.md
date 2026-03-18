@@ -31,11 +31,17 @@ Software Developer specializing in **microservices architecture** for sports pla
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royzerker&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royzerker&layout=compact&theme=github-dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royzerker&layout=compact&theme=github-dark&hide_border=true&border_radius=10&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
+
+| Metric | Value |
+|---|---|
+| Total Contributions | 143 (Aug 2022 – Present) |
+| Current Streak | 1 day |
+| Longest Streak | 6 days (30 May – 4 Jun 2025) |
 
 ---
 
 ### Contact
 
-- LinkedIn: [royzerker](https://www.linkedin.com/in/roycerdan)
+- LinkedIn: [Roy Cerdan](https://www.linkedin.com/in/roycerdan)
 - Email: [inf.roycd@gmail.com](mailto:inf.roycd@gmail.com)
