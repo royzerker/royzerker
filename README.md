@@ -4,9 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Microservices+%26+Distributed+Systems;NestJS+%7C+Go+%7C+Spring+Boot;Sports+Platforms+%26+POS+Systems)](https://git.io/typing-svg)
 
-Building scalable, event-driven architectures across the full stack.
-
 </div>
+
+---
+
+> I don't start with the solution. I start with the problem, strip it down to its core, and build from there — simple first, scalable when it matters.
+
+I design distributed systems for sports platforms and POS environments. My focus is on getting the architecture right before writing the first line of code: clear boundaries, reliable communication, and systems that hold under pressure.
 
 ---
 
@@ -29,17 +33,7 @@ Building scalable, event-driven architectures across the full stack.
 
 ---
 
-### GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royzerker&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ### Contact
 
-- LinkedIn: [royzerker](https://www.linkedin.com/in/roycerdan)
+- LinkedIn: [Roy Cerdan](https://www.linkedin.com/in/roycerdan)
 - Email: [inf.roycd@gmail.com](mailto:inf.roycd@gmail.com)
