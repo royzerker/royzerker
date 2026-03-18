@@ -1,10 +1,12 @@
+<div align="center">
+
 # Royzerker
 
-Software Developer specializing in **microservices architecture** for sports platforms and POS systems. I design and build scalable, high-performance distributed systems and work across the full stack to deliver reliable digital products.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Microservices+%26+Distributed+Systems;NestJS+%7C+Go+%7C+Spring+Boot;Sports+Platforms+%26+POS+Systems)](https://git.io/typing-svg)
 
-- Currently designing event-driven architectures with NestJS, Go, and Spring Boot
-- Exploring cloud-native and serverless patterns
-- Open to collaborating on open-source projects
+Building scalable, event-driven architectures across the full stack.
+
+</div>
 
 ---
 
@@ -29,11 +31,15 @@ Software Developer specializing in **microservices architecture** for sports pla
 
 ### GitHub Analytics
 
+<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royzerker&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ### Contact
 
-- LinkedIn: [Roy Cerdan](https://www.linkedin.com/in/roycerdan)
+- LinkedIn: [royzerker](https://www.linkedin.com/in/roycerdan)
 - Email: [inf.roycd@gmail.com](mailto:inf.roycd@gmail.com)
