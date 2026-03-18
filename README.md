@@ -31,7 +31,7 @@ Software Developer specializing in **microservices architecture** for sports pla
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royzerker&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Languages](https://easyhub-kappa.vercel.app/api/top-langs/?username=royzerker&layout=compact&theme=github-dark&hide_border=true&border_radius=10&cache_seconds=1800&hide=php,xslt,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://easyhub-kappa.vercel.app/api/top-langs/?username=royzerker&layout=compact&theme=github-dark&hide_border=true&border_radius=10&cache_seconds=1800&hide=php,xslt,css)]([https://github.com/anuraghazra/github-readme-stats](https://easyhub-kappa.vercel.app/api/top-langs/?username=royzerker)
 
 | Metric | Value |
 |---|---|
