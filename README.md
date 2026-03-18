@@ -1,6 +1,6 @@
 <div align="center">
 
-# Royzerker
+# Roy C
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer;Microservices+%26+Distributed+Systems;NestJS+%7C+Go+%7C+Spring+Boot;Sports+Platforms+%26+POS+Systems)](https://git.io/typing-svg)
 
