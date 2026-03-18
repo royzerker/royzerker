@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi there, I'm Royzerker
 
-<!--
-**royzerker/royzerker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer focused on building efficient and scalable applications. I enjoy working across the stack to create seamless digital experiences.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently developing web applications with React and Node.js.
+- Exploring cloud architecture and serverless technologies.
+- Open to collaborating on interesting open-source projects.
+
+### Tech Stack
+
+**Languages & Frameworks**
+
+`JavaScript` `TypeScript` `React` `Node.js` `Python`
+
+**Tools & Platforms**
+
+`Git` `Docker` `VS Code` `PostgreSQL` `AWS`
+
+### GitHub Analytics
+
+Here is a snapshot of my coding activity and consistency on the platform.
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royzerker&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+*Stats provided by [GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).*
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royzerker&layout=compact&theme=github-dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+
+### Get in touch
+
+- LinkedIn: [royzerker](https://www.linkedin.com/in/roycerdan)
+- Email: [inf.roycd@gmail.com](mailto:inf.roycd@gmail.com)
