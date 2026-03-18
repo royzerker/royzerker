@@ -1,34 +1,41 @@
-## Hi there, I'm Royzerker
+# Royzerker
 
-I'm a Software Developer focused on building efficient and scalable applications. I enjoy working across the stack to create seamless digital experiences.
+Software Developer specializing in **microservices architecture** for sports platforms and POS systems. I design and build scalable, high-performance distributed systems and work across the full stack to deliver reliable digital products.
 
-### About Me
+- Currently designing event-driven architectures with NestJS, Go, and Spring Boot
+- Exploring cloud-native and serverless patterns
+- Open to collaborating on open-source projects
 
-- Currently developing web applications with React and Node.js.
-- Exploring cloud architecture and serverless technologies.
-- Open to collaborating on interesting open-source projects.
+---
 
 ### Tech Stack
 
-**Languages & Frameworks**
+**Backend**
+`NestJS` `Go` `Spring Boot` `Node.js` `Python`
 
-`JavaScript` `TypeScript` `React` `Node.js` `Python`
+**Frontend**
+`React` `Next.js` `Nuxt.js` `TypeScript` `JavaScript`
+
+**Messaging & Communication**
+`Kafka` `gRPC` `NATS`
+
+**Databases**
+`MongoDB` `MariaDB` `Redis` `Elasticsearch` `PostgreSQL`
 
 **Tools & Platforms**
+`Docker` `Git` `AWS` `VS Code`
 
-`Git` `Docker` `VS Code` `PostgreSQL` `AWS`
+---
 
 ### GitHub Analytics
 
-Here is a snapshot of my coding activity and consistency on the platform.
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royzerker&theme=github-dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-*Stats provided by [GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).*
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royzerker&layout=compact&theme=github-dark&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
-### Get in touch
+---
+
+### Contact
 
 - LinkedIn: [royzerker](https://www.linkedin.com/in/roycerdan)
 - Email: [inf.roycd@gmail.com](mailto:inf.roycd@gmail.com)
